@@ -1,3 +1,7 @@
+/*
+    Primeiro Desafio: ler os valores e imprimí-los da seguinte maneira: primeiro os números pares e em ordem crescente, depois os números ímpares e em ordem decrescente
+*/
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.lang.Integer;
